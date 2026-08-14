@@ -2,6 +2,20 @@
 
 Welcome to the **Glacier Core** web platform — the official marketing and interactive showcase for the ultimate magnetic wireless charging cooler. Designed for mobile gamers and power users, this landing page features interactive 3D-like blueprint views, thermal simulations, and an integrated reservation system.
 
+## 📸 Showcase
+
+### Landing Page
+![Landing Page](./assets/images/landing-page.png)
+
+### Start Your Build
+![Start Your Build](./assets/images/build.png)
+
+### Tech Specs
+![Tech Specs](./assets/images/tech-specs.png)
+
+### Assembly Guide
+![Assembly Guide](./assets/images/assembly.png)
+
 ## 🚀 Features
 
 - **Interactive Thermal Simulator**: An interactive lab showcasing the cooling efficiency of the Glacier Core under various load scenarios.
