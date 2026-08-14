@@ -1,0 +1,6 @@
+{
+  "name": "Glacier Core - Magnetic Wireless Charging Cooler",
+  "description": "High-performance DIY 15W magnetic wireless charging cooler engineered for absolute zero throttling during intense mobile gaming sessions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
