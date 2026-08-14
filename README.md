@@ -8,7 +8,7 @@ Welcome to the **Glacier Core** web platform — the official marketing and inte
 ![Landing Page](./assets/images/landing-page.png)
 
 ### Thermal Lab Demo
-<video src="./assets/video/Thermal-lab.mov" controls="controls" muted="muted" playsinline="playsinline" width="100%"></video>
+https://github.com/Sankalp28Roop/Glacier-core---magnetic-wireless-charging-cooler/raw/main/assets/video/Thermal-lab.mov
 
 ### Start Your Build
 ![Start Your Build](./assets/images/build.png)
